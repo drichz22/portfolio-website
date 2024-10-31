@@ -45,7 +45,7 @@ const Homepage = () => {
                 Contact Me
               </button>
             </Link>
-            <a href="/CV + Portfolio.pdf" download>
+            <a href="/CV.pdf" download>
               <button className={`${buttonStyles} bg-orange-200 text-black hover:bg-orange-700`}>
                 Download CV
               </button>
