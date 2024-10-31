@@ -28,7 +28,7 @@ const PortfolioPage = () => {
       color: "from-violet-300 to-purple-300",
       title: "Food Sharing App",
       desc: "A full-stack food sharing mock-up website made as a Pattern Software Design final project using ASP.NET with cookie implementation",
-      img: "/Food Sharing App Img 1.png",
+      img: "/Food Sharing App img 1.png",
       link: "https://youtu.be/ZotxyXkn78Q",
     },
     {
