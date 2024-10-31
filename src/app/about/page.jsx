@@ -47,13 +47,13 @@ const AboutPage = () => {
               <p className="text-lg">
                 Hi! My name is Aldrich Reinhart Wahyudi. I am a software development enthusiast currently majoring in Computer Science 
                 at BINUS University. I can classify myself as an able individual both in hard-skill and soft-skill sectors. 
-                With my 'constant self-optimizing' mindset and experiences working in tandem with other people, the best possible results can be
+                With my &apos;constant self-optimizing&apos; mindset and experiences working in tandem with other people, the best possible results can be
                 guaranteed. I am familiar with front-end, back-end, and AI languages such as HTML, CSS, JS, MySQL, SQL Server, and Python.
                 Moreover, I have experiences working in both front-end and AI sections using frameworks such as Next.js and TensorFlow. As 
                 an inquisitive person, I am always eager to learn more! Do contact me for further acquintances!
               </p>
               {/* Biography Quote */}
-              <span className="italic">"The Best is Yet to Come"</span>
+              <span className="italic">&quot;The Best is Yet to Come&quot;</span>
               {/* Biography Sign */}
               <div className="self-end">
                 <svg
